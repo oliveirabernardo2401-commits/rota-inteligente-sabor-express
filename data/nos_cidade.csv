@@ -1,0 +1,21 @@
+id,nome,x,y,tipo
+0,Restaurante Sabor Express (Centro),5.0,5.0,restaurante
+1,Praça da Matriz,4.5,6.2,bairro
+2,Av. Paulista Central,6.2,6.0,bairro
+3,Rua das Flores,3.5,5.5,bairro
+4,Jardim Bela Vista,2.2,6.8,bairro
+5,Vila Nova Norte,4.2,8.0,bairro
+6,Parque Central,6.0,8.2,bairro
+7,Alto da Boa Vista,7.8,7.5,bairro
+8,Setor Comercial Leste,8.0,5.5,bairro
+9,Terminal Rodoviário,6.5,4.0,bairro
+10,Vila Industrial Sul,8.2,3.0,bairro
+11,Jardim América,6.0,2.0,bairro
+12,Av. Independência,4.8,3.2,bairro
+13,Bairro Santa Cecília,3.2,3.8,bairro
+14,Vila Olímpia Oeste,1.8,4.2,bairro
+15,Parque das Águas,1.5,2.2,bairro
+16,Residencial Sul,3.5,1.8,bairro
+17,Campus Universitário,7.5,1.5,bairro
+18,Mirante Norte,2.5,8.5,bairro
+19,Centro Histórico,5.2,6.8,bairro

@@ -1,0 +1,13 @@
+pedido_id,no_destino,horario_pedido,cliente
+101,4,12:05,Ana Paula
+102,18,12:07,Carlos Eduardo
+103,5,12:10,Mariana Silva
+104,7,12:12,Roberto Almeida
+105,8,12:14,Fernanda Costa
+106,10,12:15,Lucas Mendes
+107,17,12:18,Juliana Rocha
+108,11,12:20,Pedro Henrique
+109,15,12:22,Camila Torres
+110,14,12:24,Rafael Souza
+111,16,12:26,Beatriz Lima
+112,6,12:28,Gustavo Santos
